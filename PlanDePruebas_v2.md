@@ -1,6 +1,7 @@
 # Casos de Prueba - HU02: Actualizar RAA
 
 ## Información General
+
 - **HU:** HU02: Actualizar RAA  
 - **Descripción:** Como Profesor quiero modificar los detalles de un RAA existente para corregir errores o ajustar la información de un resultado de aprendizaje
 - **Módulo:** Gestión de RAAs
