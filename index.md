@@ -4,3 +4,4 @@
 - [Prompts para los criterios de Aceptación](./Prompts-CriteriosDeAceptacion.md)
 - [Prompts para el Pland de Pruebas](./Prompts_PlanDePruebas_Sprint1.md)
 - [Plan de Pruebas V 1.0](./Plan_De_Pruebas_V1.0.md)
+- [Plan de Pruebas V 2.0](./Plan_De_Pruebas_V2.0.md)
