@@ -30,15 +30,6 @@
 
 ---
 
-**Resumen del Plan de Pruebas:**
-
-- **Total de casos de prueba:** 6
-- **Casos positivos:** 3 (Escenarios 3, 5, 6)
-- **Casos negativos:** 3 (Escenarios 1, 2, 4)
-- **Prioridad Alta:** 5 casos
-- **Prioridad Media:** 1 caso
-- **Complejidad Media:** 1 caso
-- **Complejidad Baja:** 5 casos
 
 # **Plan de Pruebas y Casos de Prueba para HU: Visualizar Criterios EUR-ACE**
 
@@ -78,17 +69,6 @@
 
 ---
 
-**Resumen del Plan de Pruebas:**
-
-- **Total de casos de prueba:** 5
-- **Casos positivos:** 2 (Escenarios 1, 5)
-- **Casos negativos:** 3 (Escenarios 2, 3, 4)
-- **Prioridad Alta:** 4 casos
-- **Prioridad Media:** 1 caso
-- **Complejidad Media:** 2 casos
-- **Complejidad Baja:** 3 casos
-- **Módulo:** Criterios EUR-ACE
-- **Tipo de Prueba:** Funcional (todos los casos)
 
 # **Plan de Pruebas y Casos de Prueba para HU: Crear Objetivo de Programa**
 
@@ -123,17 +103,6 @@
 
 ---
 
-**Resumen del Plan de Pruebas:**
-
-- **Total de casos de prueba:** 6
-- **Casos positivos:** 3 (Escenarios 3, 5, 6)
-- **Casos negativos:** 3 (Escenarios 1, 2, 4)
-- **Prioridad Alta:** 5 casos
-- **Prioridad Media:** 1 caso
-- **Complejidad Media:** 1 caso
-- **Complejidad Baja:** 5 casos
-- **Módulo:** Objetivos de Carrera
-- **Tipo de Prueba:** Funcional (todos los casos)
 
 # Plan de Pruebas y Casos de Prueba para HU: Crear Resultado de Aprendizaje
 
